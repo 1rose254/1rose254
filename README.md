@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1rose254
 - 👀 I’m interested in run
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c language
+- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me email(2378884181@qq.com)
 
 <!---
